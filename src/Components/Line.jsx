@@ -1,4 +1,3 @@
-import React from 'react';
 
 const Line = ({ from, to }) => {
   const fromX = from.x + 50;

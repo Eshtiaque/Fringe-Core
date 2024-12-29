@@ -1,4 +1,3 @@
-import React from 'react';
 import { Rnd } from 'react-rnd';
 
 const Block = ({ block, index, addBlock, deleteBlock, updateBlockPosition }) => {
